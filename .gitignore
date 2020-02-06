@@ -284,3 +284,6 @@ gradle-app.setting
 **/build/
 
 # End of https://www.gitignore.io/api/java,linux,macos,gradle,windows,eclipse,intellij,visualstudiocode
+/gradle/wrapper/
+/gradlew
+/gradlew.bat
